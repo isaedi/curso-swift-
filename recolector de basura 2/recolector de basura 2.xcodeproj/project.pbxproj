@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD9597AE29AD3D430079B041 /* TableViewControllerrecolector.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9597AD29AD3D430079B041 /* TableViewControllerrecolector.swift */; };
+		DD9597B029AD3E2F0079B041 /* TableViewCellrecolectora.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9597AF29AD3E2F0079B041 /* TableViewCellrecolectora.swift */; };
 		DDC0ED48299EBDC600BC29E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC0ED47299EBDC600BC29E6 /* AppDelegate.swift */; };
 		DDC0ED4A299EBDC600BC29E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC0ED49299EBDC600BC29E6 /* SceneDelegate.swift */; };
 		DDC0ED4C299EBDC600BC29E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC0ED4B299EBDC600BC29E6 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD9597AD29AD3D430079B041 /* TableViewControllerrecolector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerrecolector.swift; sourceTree = "<group>"; };
+		DD9597AF29AD3E2F0079B041 /* TableViewCellrecolectora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellrecolectora.swift; sourceTree = "<group>"; };
 		DDC0ED44299EBDC600BC29E6 /* recolector de basura 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "recolector de basura 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC0ED47299EBDC600BC29E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDC0ED49299EBDC600BC29E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				DDC0ED49299EBDC600BC29E6 /* SceneDelegate.swift */,
 				DDC0ED4B299EBDC600BC29E6 /* ViewController.swift */,
 				DDC0ED4D299EBDC600BC29E6 /* Main.storyboard */,
+				DD9597AD29AD3D430079B041 /* TableViewControllerrecolector.swift */,
+				DD9597AF29AD3E2F0079B041 /* TableViewCellrecolectora.swift */,
 				DDC0ED50299EBDC800BC29E6 /* Assets.xcassets */,
 				DDC0ED52299EBDC800BC29E6 /* LaunchScreen.storyboard */,
 				DDE025F129A411BB001C507B /* carga.jpeg */,
@@ -144,7 +150,9 @@
 			files = (
 				DDC0ED4C299EBDC600BC29E6 /* ViewController.swift in Sources */,
 				DDC0ED48299EBDC600BC29E6 /* AppDelegate.swift in Sources */,
+				DD9597B029AD3E2F0079B041 /* TableViewCellrecolectora.swift in Sources */,
 				DDC0ED4A299EBDC600BC29E6 /* SceneDelegate.swift in Sources */,
+				DD9597AE29AD3D430079B041 /* TableViewControllerrecolector.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
